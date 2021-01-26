@@ -9,7 +9,7 @@ This project is a simplified front end clone of Netflix. It was created with Rea
 - Axios
 - React Hooks
 - CSS Flexbox
-- Firebase Hosting
+- TMDB API
 
 ### Runing Project Locally
 
